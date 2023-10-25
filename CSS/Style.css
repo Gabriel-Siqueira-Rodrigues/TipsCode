@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Orbitron&family=Satisfy&display=swap');
+
+
+
+
+
 /*=================================================== CLASSES =========================================================*/
 .titulo{
     text-align: center;
-    top: 60px;
     display: inline;
-    font-family: cursive;
-    font-size: 56px
+    position: relative;
+    top: 6.25rem;
+    
 }
 
 
@@ -15,31 +21,29 @@
     margin-top: 30px;
     display: block;
     left: 200px;
-    height: 10%;
-    width: 20%;
+    height: 8%;
+    width: 15%;
     
 }
 
-.ravena{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    left: 750px;
-}
-
-.kali{
+.peixe{
     position: relative;
     text-align: center;
-    display: inline-block;
-    left: 600px;
-    
-    
+    bottom: 250px;
 }
 
-.Foto-tech{
+.Foto-tech1{
     position: relative;
     text-align: end;
-    bottom: 130px;
+    bottom: 107px;
+    right: 368px;
+}
+
+.Foto-tech2{
+    position: relative;
+    text-align: start;
+    bottom: 19.438em;
+    left: 374px;
 }
 
 .gabriel{
@@ -69,7 +73,6 @@ hr{
 }
 h1, h2, h3{
     color: #6499E9;
-    margin: 0px;
 }
 
 header{
@@ -79,9 +82,27 @@ header{
 
 main{
     background-color: #89CFF3;
+    position: relative;
+    bottom: 220px;
+    margin: 0%;
 
 }
 
 body{
-    margin: 0px;
+    position: relative;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-size: 6.125rem;
+    position: relative;
+    top: 10%;
+    margin: 0;
+}
+
+h2
+{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.5rem;
 }
