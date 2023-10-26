@@ -56,6 +56,25 @@
     top: 40px;
 }
 
+.frase{
+    font-family: 'Satisfy', cursive;
+    text-align: start;
+    font-size: 2rem;
+    padding: auto;
+    margin-top: 180px;
+}
+
+.final{
+
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    padding: auto;
+    font-weight: bold;
+    margin-top: 200px;
+    position: relative;
+    top: 180px;
+}
+
 
 
 /*================================================= TAGS ==============================================================*/
@@ -72,11 +91,11 @@ hr{
 
 }
 h1, h2, h3{
-    color: #6499E9;
+    color: #071952
 }
 
 header{
-    background-color: #192655;
+    background-color: #176B87;
     position: relative;
 }
 
@@ -91,6 +110,7 @@ main{
 body{
     position: relative;
     margin: 0;
+    background-color: #89CFF3;
 }
 
 h1{
